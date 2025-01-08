@@ -1,13 +1,13 @@
 Musica musica1 = new Musica();
-musica1.nome = "Radio GaGa";
-musica1.artista = "Queen";
-musica1.duracao = 300;
-musica1.EscreveDisponivel(true); 
+musica1.Nome = "Radio GaGa";
+musica1.Artista = "Queen";
+musica1.Duracao = 300;
+musica1.Disponivel = true ; 
 Musica musica2 = new Musica();
-musica2.nome = "Bohemian Rapsody";
-musica2.artista = "Queen";
-musica2.duracao = 200;
-musica2.EscreveDisponivel(false);
+musica2.Nome = "Bohemian Rapsody";
+musica2.Artista = "Queen";
+musica2.Duracao = 200;
+musica2.Disponivel =false;
 
 musica1.ExibirFichaTecnica();
 musica2.ExibirFichaTecnica();

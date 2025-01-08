@@ -1,25 +1,20 @@
 internal class Musica
 {
-    public string nome;
-    public string artista;
-    public int duracao;
-    private bool disponivel;
+    public string Nome { get; set; }
+    public string Artista { get; set; }
+    public int Duracao { get; set; }
+    public bool Disponivel { get; set; }
+    public string DescricaoResumida => $"A musica {Nome} pertence a banda {Artista} \n"; 
 
-    public void EscreveDisponivel(bool value)
-    {
-        disponivel = value;
-    }
+    // " => " representa apenas o modo leitura "get"
 
-    public bool LeituraDisponivel()
-    {
-        return disponivel;
-    }
     public void ExibirFichaTecnica(){
-        Console.WriteLine($"Nome da musica {nome}");
-        Console.WriteLine($"Artista da musica {artista}");
-        Console.WriteLine($"Duração da musica {duracao}");
+        Console.WriteLine($"Nome da musica {Nome}");
+        Console.WriteLine($"Artista da musica {Artista}");
+        Console.WriteLine($"Duração da musica {Duracao}");
+        Console.WriteLine(DescricaoResumida);
 
-        if (disponivel)
+        if (Disponivel)
         {
             Console.WriteLine("Disponivel no plano");
         }
