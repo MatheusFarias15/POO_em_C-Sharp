@@ -5,13 +5,12 @@ internal class Musica
         Artista = artista;
         Nome = nome;
     }
+
     public string Nome { get; }
     public Banda Artista { get; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
-    public string DescricaoResumida => $"A musica {Nome} pertence a banda {Artista} \n";
-
-    // " => " representa apenas o modo leitura "get"
+    public string DescricaoResumida => $"A música {Nome} pertence à banda {Artista}";
 
     public void ExibirFichaTecnica()
     {
@@ -28,4 +27,3 @@ internal class Musica
         }
     }
 }
-
