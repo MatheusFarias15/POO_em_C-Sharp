@@ -1,4 +1,4 @@
-using ScreenSound.Modelos;
+﻿using ScreenSound.Modelos;
 
 internal class Album
 {
