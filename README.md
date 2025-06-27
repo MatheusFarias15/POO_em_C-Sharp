@@ -1,17 +1,79 @@
-Curso de C# : Aplicando a Orientação a Objetos
+# 📘 Curso de C# : Aplicando a Orientação a Objetos
 
-- C# é uma linguagem fortemente tipada ou seja sempre precisamos declarar a unidade da variavel seja String, bool, int 
-- Utilização do metodo Pascal case: Também conhecido como “upper camel case” ou “capital case”, pascal case combina palavras colocando todas com a primeira letra maiúscula
-- Palavras reservadas para leitura e receber valores (get e set)
-- get representa leitura e set recebe valores 
-- Utilização de construtores 
-- Os construtores em C# são importantes porque permitem criar objetos de uma classe, inicializar seus membros e definir valores padrão. Eles também ajudam a manter a integridade dos dados e a promover práticas de programação seguras.
-- A visibilidade internal é um conceito importante na programação orientada a objetos, especialmente em C#. Quando você declara uma classe, método ou propriedade como internal, isso significa que ela só pode ser acessada dentro do mesmo projeto ou assembly. Ou seja, outras partes do seu código que estão no mesmo projeto podem usar essa classe, mas se você tentar acessá-la de um projeto diferente, não conseguirá. Isso é útil para encapsular detalhes de implementação que não precisam ser expostos a outros projetos, ajudando a manter o código mais organizado e seguro. Assim, você pode controlar melhor o que é acessível e o que não é.
+---
 
-- A herança é um dos pilares da programação orientada a objetos e permite que uma classe (chamada de classe filha ou subclasse) herde características e comportamentos de outra classe (chamada de classe pai ou superclasse). Isso significa que a classe filha pode usar métodos e propriedades da classe pai, evitando a duplicação de código e promovendo a reutilização.
+### 🧠 Fundamentos da Linguagem
 
-- Dicas: 
-- Visibilidade: Lembre-se de que a visibilidade dos métodos e propriedades na classe pai afeta o acesso na classe filha. Se um método for declarado como private, ele não será acessível na classe filha.
-- Construtores: A classe filha não herda os construtores da classe pai, mas pode chamar o construtor da classe pai usando a palavra-chave base.
-- Sobrescrita de Métodos: Você pode sobrescrever métodos da classe pai na classe filha usando a palavra-chave override, desde que o método na classe pai seja marcado como virtual.
-- Exemplo de utilização: internal class MenuAvaliarBanda : Menu 
+- **C#** é uma linguagem fortemente tipada, ou seja, sempre precisamos declarar a unidade da variável, como: `string`, `bool`, `int`.
+- Utilização do **método Pascal Case**: Também conhecido como *upper camel case* ou *capital case*, Pascal Case combina palavras colocando todas com a primeira letra maiúscula.
+
+---
+
+### 🛠️ Getters e Setters
+
+- Palavras reservadas para leitura e recebimento de valores: `get` e `set`.
+  - `get` representa **leitura**.
+  - `set` representa **atribuição de valores**.
+
+---
+
+### 🏗️ Construtores
+
+- Os construtores em C# são importantes porque permitem:
+  - Criar objetos de uma classe.
+  - Inicializar membros e definir valores padrão.
+  - Manter a integridade dos dados.
+  - Promover práticas de programação seguras.
+
+---
+
+### 🔐 Visibilidade `internal`
+
+- A visibilidade `internal` indica que uma classe, método ou propriedade só pode ser acessada **dentro do mesmo projeto ou assembly**.
+- Isso ajuda a encapsular detalhes de implementação, tornando o código mais **organizado e seguro**.
+- **Controle total** sobre o que é acessível fora do projeto.
+
+---
+
+### 👨‍👩‍👧‍👦 Herança
+
+- A herança é um dos pilares da POO e permite que uma classe (filha) herde características e comportamentos de outra (pai).
+- Isso evita duplicação de código e promove **reutilização**.
+
+#### 📌 Dicas importantes:
+
+- **Visibilidade**: Métodos `private` não são acessíveis na classe filha.
+- **Construtores**: A classe filha **não herda** os construtores da classe pai, mas pode chamar usando `base`.
+- **Sobrescrita de métodos**: Use `override` na classe filha para sobrescrever métodos `virtual` da classe pai.
+
+> 💡 *Exemplo de utilização:*  
+> `internal class MenuAvaliarBanda : Menu`
+
+---
+
+# 🌐 Curso de C# : Consumindo API, Gravando Arquivos e Utilizando o LINQ
+
+---
+
+### 🌍 Trabalhando com APIs
+
+- A classe `HttpClient` é usada para enviar requisições HTTP (GET, POST, PUT, DELETE...) e receber respostas do servidor web.  
+  Ela faz parte do namespace: `System.Net.Http`.
+
+#### Etapas do uso:
+
+1. **Instanciação**: Criar uma instância de `HttpClient`.
+2. **Envio da requisição**: Usar métodos como `GetStringAsync`, `GetAsync`, `PostAsync`, etc.
+3. **Recebimento da resposta**: Objeto `HttpResponseMessage`, contendo:
+   - Código de status (ex: 200 OK, 404 Not Found)
+   - Headers
+   - Conteúdo da resposta
+4. **Tratamento da resposta**:
+   - Ler o conteúdo (geralmente JSON ou XML)
+   - Desserializar para objetos C#
+
+---
+
+### 📥 Desserialização
+
+- A **desserialização** é o processo de converter dados transmitidos (como JSON ou XML) em objetos ou estruturas que podem ser utilizados no programa.
