@@ -74,6 +74,43 @@
 
 ---
 
-### 📥 Desserialização
+# 📦 Serialização e Desserialização em C# com JSON
 
-- A **desserialização** é o processo de converter dados transmitidos (como JSON ou XML) em objetos ou estruturas que podem ser utilizados no programa.
+Este documento explica como funciona a **serialização** e **desserialização** de objetos em C# utilizando `System.Text.Json`.
+
+---
+
+## 🔄 Serialização (Objeto C# para JSON)
+
+A **serialização** transforma um objeto C# em uma string JSON, ideal para armazenar ou transferir dados entre sistemas.
+
+### ✅ Etapas do processo:
+
+1. **Reflexão**  
+   O `JsonSerializer` examina a estrutura do objeto com base em reflexão.
+
+2. **Mapeamento com atributos**  
+   Ele identifica as propriedades do objeto e utiliza `[JsonPropertyName]` para definir os nomes no JSON.
+
+3. **Conversão de tipos**  
+   Os tipos de dados do C# são convertidos para equivalentes em JSON.
+
+4. **Geração do JSON**  
+   Uma string JSON é gerada contendo os nomes e valores das propriedades do objeto.
+
+---
+
+## 📥 Desserialização (JSON para Objeto C#)
+
+Na **desserialização**, o processo é o inverso: transforma-se uma string JSON em um objeto C#.
+
+### 💡 Exemplo prático
+
+**JSON de entrada:**
+
+```json
+{
+  "song": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "duration_ms": 355000
+}
