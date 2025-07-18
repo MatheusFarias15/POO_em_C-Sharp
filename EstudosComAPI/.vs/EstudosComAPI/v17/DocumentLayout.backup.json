@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\estudoscomapi\\estudoscomapi\\programapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|solutionrelative:estudoscomapi\\programapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\estudoscomapi\\estudoscomapi\\filtro\\linkfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|solutionrelative:estudoscomapi\\filtro\\linkfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\estudoscomapi\\estudoscomapi\\estudoscomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|solutionrelative:estudoscomapi\\estudoscomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\estudoscomapi\\estudoscomapi\\modelosapi\\musica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|solutionrelative:estudoscomapi\\modelosapi\\musica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\estudoscomapi\\estudoscomapi\\modelosapi\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|solutionrelative:estudoscomapi\\modelosapi\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\estudoscomapi\\estudoscomapi\\filtro\\linkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AE4F59-854B-4237-B1F6-28E22B9D1040}|EstudosComAPI\\EstudosComAPI.csproj|solutionrelative:estudoscomapi\\filtro\\linkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 113,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicasPreferidas.cs",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\ModelosAPI\\MusicasPreferidas.cs",
+              "RelativeDocumentMoniker": "EstudosComAPI\\ModelosAPI\\MusicasPreferidas.cs",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\ModelosAPI\\MusicasPreferidas.cs",
+              "RelativeToolTip": "EstudosComAPI\\ModelosAPI\\MusicasPreferidas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:37:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramAPI.cs",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\ProgramAPI.cs",
+              "RelativeDocumentMoniker": "EstudosComAPI\\ProgramAPI.cs",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\ProgramAPI.cs",
+              "RelativeToolTip": "EstudosComAPI\\ProgramAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:47:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\Filtro\\LinkOrder.cs",
+              "RelativeDocumentMoniker": "EstudosComAPI\\Filtro\\LinkOrder.cs",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\Filtro\\LinkOrder.cs",
+              "RelativeToolTip": "EstudosComAPI\\Filtro\\LinkOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:41:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkFilter.cs",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\Filtro\\LinkFilter.cs",
+              "RelativeDocumentMoniker": "EstudosComAPI\\Filtro\\LinkFilter.cs",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\Filtro\\LinkFilter.cs*",
+              "RelativeToolTip": "EstudosComAPI\\Filtro\\LinkFilter.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:43:21.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica2.cs",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\ModelosAPI\\Musica2.cs",
+              "RelativeDocumentMoniker": "EstudosComAPI\\ModelosAPI\\Musica2.cs",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\ModelosAPI\\Musica2.cs",
+              "RelativeToolTip": "EstudosComAPI\\ModelosAPI\\Musica2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:46:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudosComAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\EstudosComAPI.csproj",
+              "RelativeDocumentMoniker": "EstudosComAPI\\EstudosComAPI.csproj",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\EstudosComAPI\\EstudosComAPI\\EstudosComAPI.csproj",
+              "RelativeToolTip": "EstudosComAPI\\EstudosComAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T09:45:29.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

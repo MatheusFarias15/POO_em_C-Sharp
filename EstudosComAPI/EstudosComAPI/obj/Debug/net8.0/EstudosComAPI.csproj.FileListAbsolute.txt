@@ -1,0 +1,15 @@
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\bin\Debug\net8.0\EstudosComAPI.exe
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\bin\Debug\net8.0\EstudosComAPI.deps.json
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\bin\Debug\net8.0\EstudosComAPI.runtimeconfig.json
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\bin\Debug\net8.0\EstudosComAPI.dll
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\bin\Debug\net8.0\EstudosComAPI.pdb
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.AssemblyInfoInputs.cache
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.AssemblyInfo.cs
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.csproj.CoreCompileInputs.cache
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.sourcelink.json
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.dll
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\refint\EstudosComAPI.dll
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.pdb
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\EstudosComAPI.genruntimeconfig.cache
+C:\Users\mf056\OneDrive\Documentos\POO em C#\EstudosComAPI\EstudosComAPI\obj\Debug\net8.0\ref\EstudosComAPI.dll
