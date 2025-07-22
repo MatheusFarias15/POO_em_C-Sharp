@@ -114,3 +114,23 @@ Na **desserialização**, o processo é o inverso: transforma-se uma string JSON
   "artist": "Queen",
   "duration_ms": 355000
 }
+
+# 🔁 C#: Trabalhando com Arrays e Coleções – Loops
+
+## O que são loops?
+
+Loops (laços de repetição) permitem executar um bloco de código várias vezes até que uma condição seja atendida. Em C#, os principais tipos de loops são:
+
+---
+
+## 🔢 1. `for`
+
+Usado quando **sabemos o número de vezes** que o código deve ser executado:
+
+```csharp
+for (int i = 0; i < 5; i++) 
+{
+    Console.WriteLine($"Iteração {i}");
+} 
+
+
