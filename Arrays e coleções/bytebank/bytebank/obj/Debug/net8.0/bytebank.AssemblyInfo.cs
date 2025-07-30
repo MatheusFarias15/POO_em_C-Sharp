@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bytebank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9e6793db7883b44c736a076278b91aae3d08492")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fd53c4dbc36515ae8b48bbd045df56b85da882f")]
 [assembly: System.Reflection.AssemblyProductAttribute("bytebank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bytebank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|solutionrelative:bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\bytebank.util\\listadecontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|solutionrelative:bytebank\\bytebank.modelos\\bytebank.util\\listadecontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\conta\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|solutionrelative:bytebank\\bytebank.modelos\\conta\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|solutionrelative:bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AD050D-2615-448B-A1B0-D74073D1F314}|bytebank\\bytebank.csproj|c:\\users\\mf056\\onedrive\\documentos\\poo em c#\\arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\conta\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaDeContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\bytebank.Util\\ListaDeContaCorrente.cs",
+              "RelativeDocumentMoniker": "bytebank\\bytebank.modelos\\bytebank.Util\\ListaDeContaCorrente.cs",
+              "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\bytebank.Util\\ListaDeContaCorrente.cs",
+              "RelativeToolTip": "bytebank\\bytebank.modelos\\bytebank.Util\\ListaDeContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:53:18.947Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,13 +49,14 @@
               "RelativeDocumentMoniker": "bytebank\\bytebank.modelos\\Conta\\ContaCorrente.cs",
               "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\Conta\\ContaCorrente.cs",
               "RelativeToolTip": "bytebank\\bytebank.modelos\\Conta\\ContaCorrente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T11:53:39.202Z"
+              "WhenOpened": "2025-07-20T11:53:39.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\bytebank.modelos\\Conta\\Cliente.cs",
               "RelativeDocumentMoniker": "bytebank\\bytebank.modelos\\Conta\\Cliente.cs",
@@ -50,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\Program.cs",
               "RelativeDocumentMoniker": "bytebank\\Program.cs",
               "ToolTip": "C:\\Users\\mf056\\OneDrive\\Documentos\\POO em C#\\Arrays e cole\u00E7\u00F5es\\bytebank\\bytebank\\Program.cs",
               "RelativeToolTip": "bytebank\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T11:50:46.115Z",
               "EditorCaption": ""
